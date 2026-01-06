@@ -7,6 +7,7 @@ A small, clean single-file demo that should pass typical review/lint expectation
 from __future__ import annotations
 
 import ast
+import pandas
 import logging
 from typing import Iterable
 
